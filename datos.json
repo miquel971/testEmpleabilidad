@@ -1,0 +1,2191 @@
+[
+  {
+    "id": 1,
+    "quiz": 1,
+    "question": "¿Qué define mejor a un emprendedor?",
+    "answers": {
+      "a": "Alguien que solo busca trabajar para otros",
+      "b": "Una persona que identifica una oportunidad y asume riesgos para iniciar un proyecto",
+      "c": "Un empleado público",
+      "d": "Alguien que no quiere responsabilidades"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 1,
+    "question": "¿Cuál es una característica común de los emprendedores?",
+    "answers": {
+      "a": "Miedo al cambio",
+      "b": "Pasividad",
+      "c": "Creatividad e innovación",
+      "d": "Evitar tomar decisiones"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 3,
+    "quiz": 1,
+    "question": "¿Qué es el riesgo empresarial?",
+    "answers": {
+      "a": "La certeza de ganar dinero",
+      "b": "La posibilidad de que los beneficios sean menores a lo esperado o haya pérdidas",
+      "c": "Un plan que siempre sale bien",
+      "d": "La ausencia de competencia"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 1,
+    "question": "¿Qué motiva principalmente a un emprendedor?",
+    "answers": {
+      "a": "La rutina",
+      "b": "La autonomía y el deseo de autorrealización",
+      "c": "Trabajar menos horas que un empleado",
+      "d": "Seguir órdenes de otros"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "quiz": 1,
+    "question": "¿Cuál es una capacidad personal del emprendedor?",
+    "answers": {
+      "a": "Resiliencia",
+      "b": "Intolerancia al error",
+      "c": "Individualismo extremo",
+      "d": "Falta de visión"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 6,
+    "quiz": 1,
+    "question": "¿Qué es la innovación?",
+    "answers": {
+      "a": "Hacer siempre lo mismo",
+      "b": "Introducir novedades que añadan valor a un producto o proceso",
+      "c": "Copiar exactamente a la competencia",
+      "d": "Mantener sistemas obsoletos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 1,
+    "question": "¿Qué es el espíritu emprendedor?",
+    "answers": {
+      "a": "Una actitud para transformar ideas en actos",
+      "b": "Un título universitario",
+      "c": "Tener mucho dinero en el banco",
+      "d": "No tener jefes"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 8,
+    "quiz": 1,
+    "question": "¿Cuál de estos es un error común al emprender?",
+    "answers": {
+      "a": "Investigar el mercado",
+      "b": "No tener un plan de negocio",
+      "c": "Formarse continuamente",
+      "d": "Escuchar a los clientes"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "quiz": 1,
+    "question": "¿Qué es el intraemprendimiento?",
+    "answers": {
+      "a": "Montar una empresa fuera del país",
+      "b": "Emprender proyectos innovadores dentro de una empresa ajena",
+      "c": "Trabajar por cuenta propia en casa",
+      "d": "Cerrar una empresa"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "quiz": 1,
+    "question": "¿Qué papel juega la ética en el emprendimiento?",
+    "answers": {
+      "a": "No es importante",
+      "b": "Es fundamental para la sostenibilidad y reputación a largo plazo",
+      "c": "Solo sirve si da beneficios inmediatos",
+      "d": "Es un obstáculo para el negocio"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "quiz": 1,
+    "question": "¿Qué es el networking?",
+    "answers": {
+      "a": "Trabajar solo",
+      "b": "Crear una red de contactos profesionales para generar oportunidades",
+      "c": "Arreglar ordenadores",
+      "d": "Vender por internet"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 12,
+    "quiz": 1,
+    "question": "¿Qué es el Lean Startup?",
+    "answers": {
+      "a": "Crear empresas con mucha inversión inicial",
+      "b": "Metodología basada en aprendizaje validado y ciclos rápidos",
+      "c": "Un tipo de contabilidad",
+      "d": "Un contrato laboral"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 1,
+    "question": "¿Qué es un Business Angel?",
+    "answers": {
+      "a": "Un empleado eficiente",
+      "b": "Un inversor privado que aporta capital y experiencia a startups",
+      "c": "Un seguro empresarial",
+      "d": "Un consultor público"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 14,
+    "quiz": 1,
+    "question": "¿Qué es el punto de equilibrio?",
+    "answers": {
+      "a": "Cuando la empresa pierde dinero",
+      "b": "Cuando ingresos igualan a costes",
+      "c": "El sueldo del dueño",
+      "d": "El número de empleados"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 15,
+    "quiz": 1,
+    "question": "¿Qué es la visión de una empresa?",
+    "answers": {
+      "a": "Lo que hace hoy",
+      "b": "El futuro que quiere alcanzar",
+      "c": "El salario de los empleados",
+      "d": "El logo"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 1,
+    "question": "¿Qué es la misión de una empresa?",
+    "answers": {
+      "a": "Su razón de ser",
+      "b": "Su plan de beneficios",
+      "c": "Su estructura legal",
+      "d": "Su publicidad"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 17,
+    "quiz": 1,
+    "question": "¿Qué es el análisis DAFO?",
+    "answers": {
+      "a": "Un impuesto",
+      "b": "Análisis de Debilidades, Amenazas, Fortalezas y Oportunidades",
+      "c": "Un software",
+      "d": "Un contrato"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 18,
+    "quiz": 1,
+    "question": "¿Qué es el modelo Canvas?",
+    "answers": {
+      "a": "Un tejido",
+      "b": "Modelo visual de negocio",
+      "c": "Una app",
+      "d": "Una red social"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 19,
+    "quiz": 1,
+    "question": "¿Qué es la propuesta de valor?",
+    "answers": {
+      "a": "El precio",
+      "b": "Lo que hace único tu producto",
+      "c": "El coste",
+      "d": "El beneficio"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "quiz": 1,
+    "question": "¿Qué es un nicho de mercado?",
+    "answers": {
+      "a": "Todo el mercado",
+      "b": "Segmento pequeño y específico",
+      "c": "La competencia",
+      "d": "Un monopolio"
+    },
+    "correct": "b"
+  }
+,
+
+
+  {
+    "id": 1,
+    "quiz": 2,
+    "question": "¿De dónde surgen las ideas de negocio?",
+    "answers": {
+      "a": "Solo de la suerte",
+      "b": "De observar necesidades no cubiertas, cambios sociales o deficiencias en otros productos",
+      "c": "De copiar exactamente lo que hace el vecino",
+      "d": "De no pensar en el cliente"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 2,
+    "question": "¿Qué es el entorno general de la empresa?",
+    "answers": {
+      "a": "Los clientes directos",
+      "b": "Factores externos que afectan a todas las empresas (PEST: Político, Económico, Social, Tecnológico)",
+      "c": "El mobiliario de la oficina",
+      "d": "Los proveedores de luz"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 3,
+    "quiz": 2,
+    "question": "¿Qué es el entorno específico?",
+    "answers": {
+      "a": "La situación política del país",
+      "b": "Factores que afectan directamente a un sector (clientes, proveedores, competencia)",
+      "c": "El clima",
+      "d": "Las leyes generales"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 2,
+    "question": "¿Qué analiza el modelo de las 5 fuerzas de Porter?",
+    "answers": {
+      "a": "La motivación de los empleados",
+      "b": "La intensidad de la competencia y el atractivo de un sector",
+      "c": "El precio de la gasolina",
+      "d": "La velocidad de producción"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "quiz": 2,
+    "question": "¿Qué es un mercado saturado?",
+    "answers": {
+      "a": "Un mercado con pocos clientes",
+      "b": "Un mercado donde la oferta es muy alta y hay poca posibilidad de crecimiento",
+      "c": "Un mercado nuevo",
+      "d": "Un mercado sin competencia"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 6,
+    "quiz": 2,
+    "question": "¿Qué es la segmentación de mercado?",
+    "answers": {
+      "a": "Vender a todo el mundo por igual",
+      "b": "Dividir el mercado en grupos con características y necesidades similares",
+      "c": "Cerrar la empresa por sectores",
+      "d": "Subir los precios"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 2,
+    "question": "¿Qué es el 'Product-Market Fit'?",
+    "answers": {
+      "a": "Cuando el producto es muy caro",
+      "b": "Cuando un producto satisface una necesidad real en un mercado específico",
+      "c": "Cuando el producto no se vende",
+      "d": "Cuando la competencia cierra"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 8,
+    "quiz": 2,
+    "question": "¿Qué es el benchmarking?",
+    "answers": {
+      "a": "Sentarse en un banco a pensar",
+      "b": "Analizar las mejores prácticas de la competencia para mejorar la propia empresa",
+      "c": "Ignorar lo que hacen los demás",
+      "d": "Bajar los precios por debajo del coste"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "quiz": 2,
+    "question": "¿Cuál es una ventaja competitiva?",
+    "answers": {
+      "a": "Tener los mismos costes que los demás",
+      "b": "Una característica que hace a la empresa superior a sus competidores de forma sostenible",
+      "c": "Tener un local más grande",
+      "d": "Llegar tarde a las citas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "quiz": 2,
+    "question": "¿Qué es el análisis PEST?",
+    "answers": {
+      "a": "Un control de plagas",
+      "b": "Un análisis de factores Políticos, Económicos, Sociales y Tecnológicos",
+      "c": "Un test de inteligencia",
+      "d": "Un tipo de balance contable"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "quiz": 2,
+    "question": "¿Qué son las barreras de entrada?",
+    "answers": {
+      "a": "Las puertas del local",
+      "b": "Dificultades que impiden a nuevas empresas entrar en un mercado",
+      "c": "Los horarios comerciales",
+      "d": "La falta de luz"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 12,
+    "quiz": 2,
+    "question": "¿Qué es el B2B (Business to Business)?",
+    "answers": {
+      "a": "Venta directa al consumidor final",
+      "b": "Transacciones comerciales entre empresas",
+      "c": "Venta de productos de segunda mano",
+      "d": "Trueque entre vecinos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 2,
+    "question": "¿Qué es el B2C (Business to Consumer)?",
+    "answers": {
+      "a": "Venta de empresa a consumidor final",
+      "b": "Venta entre empresas",
+      "c": "Venta de consumidor a empresa",
+      "d": "Venta ilegal"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 14,
+    "quiz": 2,
+    "question": "¿Qué es la deslocalización?",
+    "answers": {
+      "a": "Perder las llaves",
+      "b": "Trasladar actividades productivas a países con menores costes",
+      "c": "Abrir una tienda en el barrio",
+      "d": "Cambiar de logotipo"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 15,
+    "quiz": 2,
+    "question": "¿Qué es una economía de escala?",
+    "answers": {
+      "a": "Pagar más impuestos al crecer",
+      "b": "Reducir el coste unitario al aumentar la producción",
+      "c": "Subir los precios cada año",
+      "d": "Contratar a más directivos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 2,
+    "question": "¿Qué es la globalización?",
+    "answers": {
+      "a": "Cerrar las fronteras",
+      "b": "La integración de las economías mundiales",
+      "c": "Vender solo en tu ciudad",
+      "d": "Un tipo de moneda"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 17,
+    "quiz": 2,
+    "question": "¿Qué es el comercio electrónico (E-commerce)?",
+    "answers": {
+      "a": "Vender en mercadillos",
+      "b": "Compra y venta de productos o servicios a través de internet",
+      "c": "Enviar cartas comerciales",
+      "d": "Tener una página web informativa"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 18,
+    "quiz": 2,
+    "question": "¿Qué es la transformación digital?",
+    "answers": {
+      "a": "Comprar ordenadores nuevos",
+      "b": "Integrar tecnología digital en todas las áreas de una empresa cambiando su forma de funcionar",
+      "c": "Usar Facebook",
+      "d": "Escanear facturas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 19,
+    "quiz": 2,
+    "question": "¿Qué es el valor añadido?",
+    "answers": {
+      "a": "El IVA",
+      "b": "La característica extra que se le da a un producto para aumentar su valor comercial",
+      "c": "El margen de beneficio",
+      "d": "El coste de fabricación"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "quiz": 2,
+    "question": "¿Qué es la sostenibilidad empresarial?",
+    "answers": {
+      "a": "Que la empresa no se caiga",
+      "b": "Crear valor a largo plazo considerando aspectos económicos, sociales y ambientales",
+      "c": "Ganar mucho dinero rápido",
+      "d": "Tener muchos socios"
+    },
+    "correct": "b"
+  }
+,
+
+  {
+    "id": 1,
+    "quiz": 3,
+    "question": "¿Qué es la cultura empresarial?",
+    "answers": {
+      "a": "Ir al teatro con los compañeros",
+      "b": "El conjunto de valores, creencias y normas compartidas por los miembros de una organización",
+      "c": "El nivel de estudios de los jefes",
+      "d": "El idioma oficial de la empresa"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 3,
+    "question": "¿Qué es la Responsabilidad Social Corporativa (RSC)?",
+    "answers": {
+      "a": "Pagar los impuestos obligatorios",
+      "b": "La contribución voluntaria de las empresas al mejoramiento social, económico y ambiental",
+      "c": "Una estrategia para engañar a los clientes",
+      "d": "La responsabilidad legal del administrador"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 3,
+    "quiz": 3,
+    "question": "¿Qué son los Stakeholders?",
+    "answers": {
+      "a": "Los dueños de la empresa solamente",
+      "b": "Cualquier grupo o individuo que puede afectar o ser afectado por la actividad de la empresa",
+      "c": "Los filetes de carne para la cena",
+      "d": "Los competidores directos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 3,
+    "question": "¿Qué es la ética empresarial?",
+    "answers": {
+      "a": "Cumplir la ley para evitar multas",
+      "b": "Aplicar principios éticos en la toma de decisiones y acciones de la empresa",
+      "c": "Un manual de buenos modales",
+      "d": "No existe la ética en los negocios"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "quiz": 3,
+    "question": "¿Cuál es un beneficio de la RSC para la empresa?",
+    "answers": {
+      "a": "Aumentar los costes innecesariamente",
+      "b": "Mejorar la imagen de marca y la lealtad del cliente",
+      "c": "Pagar menos sueldos",
+      "d": "Evitar el registro mercantil"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 6,
+    "quiz": 3,
+    "question": "¿Qué es un código ético?",
+    "answers": {
+      "a": "Una contraseña secreta",
+      "b": "Un documento que formaliza los valores y principios de conducta de la empresa",
+      "c": "El contrato de trabajo",
+      "d": "La ley de protección de datos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 3,
+    "question": "¿Qué es la conciliación laboral?",
+    "answers": {
+      "a": "Pelearse con el jefe",
+      "b": "Equilibrio entre la vida profesional y la vida personal/familiar",
+      "c": "Trabajar horas extra",
+      "d": "Hacer amigos en el trabajo"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 8,
+    "quiz": 3,
+    "question": "¿Qué es el desarrollo sostenible?",
+    "answers": {
+      "a": "Crecer sin parar",
+      "b": "Satisfacer las necesidades actuales sin comprometer las de las futuras generaciones",
+      "c": "Gastar todos los recursos ahora",
+      "d": "Mantener los precios bajos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "quiz": 3,
+    "question": "¿Qué es la imagen corporativa?",
+    "answers": {
+      "a": "El logotipo solamente",
+      "b": "La percepción que el público tiene de la empresa",
+      "c": "La foto del director",
+      "d": "El edificio de la sede"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "quiz": 3,
+    "question": "¿Qué es la reputación online?",
+    "answers": {
+      "a": "Tener muchos seguidores",
+      "b": "El prestigio de una persona o empresa en internet",
+      "c": "Tener una web bonita",
+      "d": "No aparecer en Google"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "quiz": 3,
+    "question": "¿Qué es la transparencia empresarial?",
+    "answers": {
+      "a": "Tener paredes de cristal",
+      "b": "Facilitar información relevante y clara sobre la gestión y resultados",
+      "c": "No ocultar nada a la competencia",
+      "d": "Hacer auditorías secretas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 12,
+    "quiz": 3,
+    "question": "¿Qué es la inversión socialmente responsable (ISR)?",
+    "answers": {
+      "a": "Invertir en bolsa",
+      "b": "Inversiones que consideran criterios financieros y también sociales/ambientales",
+      "c": "Donar dinero a la iglesia",
+      "d": "No pagar intereses"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 3,
+    "question": "¿Qué es la economía circular?",
+    "answers": {
+      "a": "Vender productos redondos",
+      "b": "Sistema que busca reducir el consumo de recursos y la producción de residuos (reutilizar, reciclar)",
+      "c": "Una economía que no crece",
+      "d": "Pagar en efectivo"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 14,
+    "quiz": 3,
+    "question": "¿Qué es la huella de carbono?",
+    "answers": {
+      "a": "La marca de los zapatos",
+      "b": "La totalidad de gases de efecto invernadero emitidos por una organización",
+      "c": "Un tipo de carbón",
+      "d": "Limpiar la oficina"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 15,
+    "quiz": 3,
+    "question": "¿Qué es el balance social?",
+    "answers": {
+      "a": "La cuenta de resultados",
+      "b": "Documento que evalúa el cumplimiento de la RSC en un periodo",
+      "c": "Hacer una fiesta en la empresa",
+      "d": "El número de empleados"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 3,
+    "question": "¿Qué es el voluntariado corporativo?",
+    "answers": {
+      "a": "Obligar a los empleados a trabajar gratis",
+      "b": "Actividades promovidas por la empresa para que los empleados participen en causas sociales",
+      "c": "Hacer prácticas sin cobrar",
+      "d": "Apuntarse a una ONG"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 17,
+    "quiz": 3,
+    "question": "¿Qué es el comercio justo?",
+    "answers": {
+      "a": "Comprar barato",
+      "b": "Relación comercial basada en el diálogo, transparencia y respeto que busca mayor equidad",
+      "c": "No cobrar IVA",
+      "d": "Vender en el mercado local"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 18,
+    "quiz": 3,
+    "question": "¿Qué es la diversidad en la empresa?",
+    "answers": {
+      "a": "Tener muchos productos",
+      "b": "Inclusión de personas de diferentes géneros, etnias, edades y capacidades",
+      "c": "Vender en varios países",
+      "d": "Tener varios locales"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 19,
+    "quiz": 3,
+    "question": "¿Qué es el liderazgo ético?",
+    "answers": {
+      "a": "Mandar mucho",
+      "b": "Dirigir basándose en el respeto, la integridad y el ejemplo positivo",
+      "c": "Ser el más simpático",
+      "d": "No tomar decisiones difíciles"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "quiz": 3,
+    "question": "¿Qué es el Greenwashing?",
+    "answers": {
+      "a": "Limpiar con productos verdes",
+      "b": "Estrategia de marketing falsa para aparentar ser ecológico",
+      "c": "Pintar la oficina de verde",
+      "d": "Reciclar el papel"
+    },
+    "correct": "b"
+  }
+
+,
+
+  {
+    "id": 1,
+    "quiz": 4,
+    "question": "¿Qué es el Marketing Mix?",
+    "answers": {
+      "a": "Una mezcla de productos",
+      "b": "El conjunto de herramientas (4 Ps) que utiliza la empresa para alcanzar sus objetivos",
+      "c": "Un batido de frutas",
+      "d": "Vender por teléfono"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 4,
+    "question": "¿Cuáles son las 4 Ps del marketing tradicional?",
+    "answers": {
+      "a": "Personas, Plan, Precio, Plaza",
+      "b": "Producto, Precio, Plaza (Distribución), Promoción",
+      "c": "Publicidad, Periódico, Pago, Post",
+      "d": "Paciencia, Prudencia, Pasión, Poder"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 3,
+    "quiz": 4,
+    "question": "¿Qué es la segmentación de mercado?",
+    "answers": {
+      "a": "Vender a todo el mundo",
+      "b": "Dividir el mercado en grupos homogéneos con necesidades similares",
+      "c": "Cortar el producto en trozos",
+      "d": "Subir los precios"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 4,
+    "question": "¿Qué es el posicionamiento?",
+    "answers": {
+      "a": "El lugar que ocupa el producto en la estantería",
+      "b": "El lugar que ocupa la marca en la mente del consumidor frente a la competencia",
+      "c": "La dirección de la empresa",
+      "d": "El cargo del director"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "quiz": 4,
+    "question": "¿Qué es el ciclo de vida de un producto?",
+    "answers": {
+      "a": "Lo que tarda en caducar",
+      "b": "Las etapas por las que pasa un producto (Introducción, Crecimiento, Madurez, Declive)",
+      "c": "El tiempo de fabricación",
+      "d": "La garantía"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 6,
+    "quiz": 4,
+    "question": "¿Qué es el branding?",
+    "answers": {
+      "a": "Quemar el producto",
+      "b": "El proceso de construcción y gestión de una marca",
+      "c": "Hacer anuncios en radio",
+      "d": "Poner etiquetas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 4,
+    "question": "¿Qué es el marketing digital?",
+    "answers": {
+      "a": "Vender calculadoras",
+      "b": "Estrategias de comercialización realizadas en medios digitales",
+      "c": "Hacer fotos a los productos",
+      "d": "Llamar por móvil"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 8,
+    "quiz": 4,
+    "question": "¿Qué es el SEO?",
+    "answers": {
+      "a": "Un gas noble",
+      "b": "Optimización para motores de búsqueda (aparecer orgánicamente en Google)",
+      "c": "Pagar por anuncios",
+      "d": "Una red social"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "quiz": 4,
+    "question": "¿Qué es el SEM?",
+    "answers": {
+      "a": "Semillas para plantar",
+      "b": "Marketing en motores de búsqueda (anuncios pagados)",
+      "c": "Enviar emails",
+      "d": "Un programa de edición"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "quiz": 4,
+    "question": "¿Qué es el Inbound Marketing?",
+    "answers": {
+      "a": "Atraer clientes mediante contenido útil y relevante en lugar de publicidad intrusiva",
+      "b": "Llamar a puerta fría",
+      "c": "Poner vallas publicitarias",
+      "d": "Hacer descuentos agresivos"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 11,
+    "quiz": 4,
+    "question": "¿Qué es el Target?",
+    "answers": {
+      "a": "Una tarjeta de crédito",
+      "b": "El público objetivo al que se dirige la empresa",
+      "c": "La competencia",
+      "d": "El presupuesto"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 12,
+    "quiz": 4,
+    "question": "¿Qué es el Merchandising?",
+    "answers": {
+      "a": "Vender mucho",
+      "b": "Técnicas para promocionar el producto en el punto de venta",
+      "c": "Exportar productos",
+      "d": "Hacer inventario"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 4,
+    "question": "¿Qué es el marketing de guerrilla?",
+    "answers": {
+      "a": "Publicidad de armas",
+      "b": "Técnicas de marketing no convencionales de bajo coste y gran impacto",
+      "c": "Hacer spam",
+      "d": "Gritar por la calle"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 14,
+    "quiz": 4,
+    "question": "¿Qué es el ROI en marketing?",
+    "answers": {
+      "a": "Rey del internet",
+      "b": "Retorno de la inversión (cuánto dinero se gana por cada euro invertido)",
+      "c": "Un tipo de anuncio",
+      "d": "El sueldo del comercial"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 15,
+    "quiz": 4,
+    "question": "¿Qué es el Buyer Persona?",
+    "answers": {
+      "a": "Un cliente real",
+      "b": "Una representación ficticia del cliente ideal basada en datos reales",
+      "c": "El vendedor",
+      "d": "El modelo del anuncio"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 4,
+    "question": "¿Qué es el Funnel de Ventas?",
+    "answers": {
+      "a": "Un embudo para echar aceite",
+      "b": "Las etapas por las que pasa un usuario desde que conoce la marca hasta que compra",
+      "c": "El departamento de ventas",
+      "d": "La lista de precios"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 17,
+    "quiz": 4,
+    "question": "¿Qué es el Engagement?",
+    "answers": {
+      "a": "Compromiso o interacción de los usuarios con una marca",
+      "b": "Casarse con el jefe",
+      "c": "Tener muchos empleados",
+      "d": "El contrato de exclusividad"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 18,
+    "quiz": 4,
+    "question": "¿Qué es el Email Marketing?",
+    "answers": {
+      "a": "Mandar spam",
+      "b": "Envío de correos electrónicos a una base de datos con fines comerciales o informativos",
+      "c": "Tener un correo corporativo",
+      "d": "Borrar correos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 19,
+    "quiz": 4,
+    "question": "¿Qué es el Marketing de Influencers?",
+    "answers": {
+      "a": "Ser famoso",
+      "b": "Colaborar con personas que tienen gran influencia en redes sociales para promocionar productos",
+      "c": "Hablar bien de uno mismo",
+      "d": "Hacer anuncios en TV"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "quiz": 4,
+    "question": "¿Qué es el CRM?",
+    "answers": {
+      "a": "Un tipo de coche",
+      "b": "Software para gestionar la relación con los clientes",
+      "c": "Una técnica de ventas",
+      "d": "El carnet de manipulador"
+    },
+    "correct": "b"
+  }
+,
+
+
+  {
+    "id": 1,
+    "quiz": 5,
+    "question": "¿Qué es el departamento de RRHH?",
+    "answers": {
+      "a": "Donde se compran las máquinas",
+      "b": "El área encargada de gestionar a las personas de la organización",
+      "c": "La recepción",
+      "d": "El almacén"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 5,
+    "question": "¿Qué es un profesiograma?",
+    "answers": {
+      "a": "Un gráfico de ventas",
+      "b": "Documento que define las capacidades y aptitudes necesarias para un puesto",
+      "c": "La foto de los empleados",
+      "d": "Un examen médico"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 3,
+    "quiz": 5,
+    "question": "¿Qué es el reclutamiento?",
+    "answers": {
+      "a": "Despedir gente",
+      "b": "Atraer candidatos potencialmente cualificados para un puesto",
+      "c": "Pagar las nóminas",
+      "d": "Hacer huelga"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 5,
+    "question": "¿Qué es la selección de personal?",
+    "answers": {
+      "a": "Elegir al mejor candidato entre los reclutados",
+      "b": "Poner un anuncio",
+      "c": "Hacer una entrevista de salida",
+      "d": "Subir el sueldo"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 5,
+    "quiz": 5,
+    "question": "¿Qué es una entrevista de trabajo?",
+    "answers": {
+      "a": "Una charla entre amigos",
+      "b": "Una técnica de selección para evaluar la idoneidad del candidato",
+      "c": "Un interrogatorio policial",
+      "d": "Fichar al entrar"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 6,
+    "quiz": 5,
+    "question": "¿Qué es el contrato de trabajo?",
+    "answers": {
+      "a": "Una promesa verbal",
+      "b": "Acuerdo entre empresario y trabajador por el que este presta servicios a cambio de un salario",
+      "c": "Un papel que no sirve de nada",
+      "d": "La baja laboral"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 5,
+    "question": "¿Qué es el salario bruto?",
+    "answers": {
+      "a": "Lo que recibes en el banco",
+      "b": "La cantidad total antes de deducciones y retenciones",
+      "c": "El sueldo mínimo",
+      "d": "Las propinas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 8,
+    "quiz": 5,
+    "question": "¿Qué es el salario neto?",
+    "answers": {
+      "a": "El total antes de impuestos",
+      "b": "La cantidad real que percibe el trabajador tras las deducciones",
+      "c": "El coste total para la empresa",
+      "d": "El dinero en negro"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "quiz": 5,
+    "question": "¿Qué es el convenio colectivo?",
+    "answers": {
+      "a": "Un libro de instrucciones",
+      "b": "Acuerdo entre representantes de trabajadores y empresarios sobre condiciones de trabajo",
+      "c": "El reglamento interno",
+      "d": "La ley general"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "quiz": 5,
+    "question": "¿Qué es el liderazgo?",
+    "answers": {
+      "a": "Mandar y gritar",
+      "b": "Capacidad de influir y motivar a otros para lograr objetivos comunes",
+      "c": "Ser el jefe",
+      "d": "Tener el despacho más grande"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "quiz": 5,
+    "question": "¿Qué es el clima laboral?",
+    "answers": {
+      "a": "La temperatura de la oficina",
+      "b": "El ambiente humano y psicológico en el que se desarrolla el trabajo",
+      "c": "Si llueve o hace sol",
+      "d": "Las vacaciones"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 12,
+    "quiz": 5,
+    "question": "¿Qué es la motivación laboral?",
+    "answers": {
+      "a": "Tener miedo al despido",
+      "b": "Factores que impulsan al trabajador a esforzarse en sus tareas",
+      "c": "Trabajar muchas horas",
+      "d": "Tomar mucho café"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 5,
+    "question": "¿Qué es el organigrama?",
+    "answers": {
+      "a": "Un calendario",
+      "b": "Representación gráfica de la estructura jerárquica de una empresa",
+      "c": "La lista de la compra",
+      "d": "Un plano del edificio"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 14,
+    "quiz": 5,
+    "question": "¿Qué es el trabajo en equipo?",
+    "answers": {
+      "a": "Muchos haciendo lo mismo",
+      "b": "Colaboración coordinada de varias personas para alcanzar un fin común",
+      "c": "Que uno trabaje y los demás miren",
+      "d": "Hacer reuniones largas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 15,
+    "quiz": 5,
+    "question": "¿Qué es la formación continua?",
+    "answers": {
+      "a": "Ir a la universidad",
+      "b": "Actividades de aprendizaje durante toda la vida laboral para actualizar competencias",
+      "c": "Hacer un curso y ya",
+      "d": "Estudiar en vacaciones"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 5,
+    "question": "¿Qué es la evaluación del desempeño?",
+    "answers": {
+      "a": "Un examen sorpresa",
+      "b": "Proceso para medir el rendimiento y cumplimiento de objetivos de un empleado",
+      "c": "Mirar si llega tarde",
+      "d": "Contar las ventas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 17,
+    "quiz": 5,
+    "question": "¿Qué es el teletrabajo?",
+    "answers": {
+      "a": "Trabajar en la tele",
+      "b": "Realizar la actividad laboral fuera de las dependencias de la empresa usando TICs",
+      "c": "No trabajar",
+      "d": "Ir a la oficina solo los lunes"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 18,
+    "quiz": 5,
+    "question": "¿Qué es la prevención de riesgos laborales (PRL)?",
+    "answers": {
+      "a": "Poner tiritas",
+      "b": "Conjunto de medidas para evitar accidentes y enfermedades en el trabajo",
+      "c": "Tener un extintor",
+      "d": "No hacer nada peligroso"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 19,
+    "quiz": 5,
+    "question": "¿Qué es un sindicato?",
+    "answers": {
+      "a": "Un grupo de empresarios",
+      "b": "Organización de trabajadores para la defensa de sus intereses laborales",
+      "c": "Un partido político",
+      "d": "Una secta"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "quiz": 5,
+    "question": "¿Qué es la rotación de personal?",
+    "answers": {
+      "a": "Dar vueltas en la silla",
+      "b": "Frecuencia con la que los empleados entran y salen de la empresa",
+      "c": "Cambiar de mesa",
+      "d": "Hacer turnos"
+    },
+    "correct": "b"
+  }
+,
+
+  {
+    "id": 1,
+    "quiz": 6,
+    "question": "¿Qué es el balance de situación?",
+    "answers": {
+      "a": "Un resumen de ventas",
+      "b": "Documento que muestra el patrimonio (activos, pasivos y patrimonio neto) en un momento dado",
+      "c": "La lista de facturas",
+      "d": "El extracto del banco"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 6,
+    "question": "¿Qué es el Activo?",
+    "answers": {
+      "a": "Las deudas",
+      "b": "Bienes y derechos que posee la empresa",
+      "c": "El capital de los socios",
+      "d": "Los gastos del mes"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 3,
+    "quiz": 6,
+    "question": "¿Qué es el Pasivo?",
+    "answers": {
+      "a": "Lo que nos deben",
+      "b": "Obligaciones y deudas de la empresa con terceros",
+      "c": "El beneficio",
+      "d": "Las furgonetas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 6,
+    "question": "¿Qué es el Patrimonio Neto?",
+    "answers": {
+      "a": "El total del activo",
+      "b": "Recursos propios de la empresa (capital aportado y beneficios no distribuidos)",
+      "c": "El dinero en caja",
+      "d": "Las deudas con el banco"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "quiz": 6,
+    "question": "¿Qué es la cuenta de pérdidas y ganancias?",
+    "answers": {
+      "a": "Un libro de reclamaciones",
+      "b": "Documento que muestra los ingresos y gastos para calcular el resultado del ejercicio",
+      "c": "El balance de situación",
+      "d": "La contabilidad de caja"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 6,
+    "quiz": 6,
+    "question": "¿Qué es el fondo de maniobra?",
+    "answers": {
+      "a": "Dinero para arreglar coches",
+      "b": "Diferencia entre el activo corriente y el pasivo corriente (mide la solvencia a corto plazo)",
+      "c": "El capital social",
+      "d": "La reserva legal"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 6,
+    "question": "¿Qué es la amortización?",
+    "answers": {
+      "a": "Matar a alguien",
+      "b": "Registro del desgaste o pérdida de valor de un activo fijo con el tiempo",
+      "c": "Pedir un préstamo",
+      "d": "Pagar una multa"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 8,
+    "quiz": 6,
+    "question": "¿Qué es el IVA?",
+    "answers": {
+      "a": "Impuesto sobre el Valor Añadido",
+      "b": "Ingreso de Ventas Anuales",
+      "c": "Impuesto Variable Acumulado",
+      "d": "Interés de Valor Alto"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 9,
+    "quiz": 6,
+    "question": "¿Qué es la liquidez?",
+    "answers": {
+      "a": "Ser un gas",
+      "b": "Capacidad de la empresa para convertir sus activos en dinero efectivo de forma inmediata",
+      "c": "Tener muchas deudas",
+      "d": "Ser muy rentable"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "quiz": 6,
+    "question": "¿Qué es la rentabilidad?",
+    "answers": {
+      "a": "Vender mucho",
+      "b": "Relación entre el beneficio obtenido y la inversión realizada",
+      "c": "No tener gastos",
+      "d": "Tener mucho dinero en el banco"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "quiz": 6,
+    "question": "¿Qué es un presupuesto?",
+    "answers": {
+      "a": "Una factura final",
+      "b": "Planificación de ingresos y gastos previstos para un periodo",
+      "c": "Un adorno",
+      "d": "Lo que ya se ha gastado"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 12,
+    "quiz": 6,
+    "question": "¿Qué es la financiación propia?",
+    "answers": {
+      "a": "Pedir al banco",
+      "b": "Recursos aportados por los socios o generados por la propia empresa",
+      "c": "Pedir una subvención",
+      "d": "No pagar a proveedores"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 6,
+    "question": "¿Qué es la financiación ajena?",
+    "answers": {
+      "a": "Usar los ahorros",
+      "b": "Recursos obtenidos de terceros (bancos, préstamos, proveedores) que hay que devolver",
+      "c": "El capital social",
+      "d": "No existe"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 14,
+    "quiz": 6,
+    "question": "¿Qué es el Cash Flow (Flujo de Caja)?",
+    "answers": {
+      "a": "El beneficio neto",
+      "b": "Diferencia entre cobros y pagos de dinero en efectivo en un periodo",
+      "c": "Las ventas totales",
+      "d": "El valor de las máquinas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 15,
+    "quiz": 6,
+    "question": "¿Qué es el umbral de rentabilidad?",
+    "answers": {
+      "a": "El beneficio máximo",
+      "b": "Punto donde los ingresos cubren exactamente todos los costes (ni gana ni pierde)",
+      "c": "Cuando hay que cerrar",
+      "d": "El sueldo del jefe"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 6,
+    "question": "¿Qué es un activo corriente?",
+    "answers": {
+      "a": "Un edificio",
+      "b": "Bienes que se espera convertir en dinero en menos de un año (existencias, clientes, caja)",
+      "c": "Una deuda a largo plazo",
+      "d": "El capital social"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 17,
+    "quiz": 6,
+    "question": "¿Qué es un pasivo no corriente?",
+    "answers": {
+      "a": "Deudas con proveedores",
+      "b": "Deudas con vencimiento superior a un año",
+      "c": "El dinero en caja",
+      "d": "Los impuestos del mes"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 18,
+    "quiz": 6,
+    "question": "¿Qué es el ROI?",
+    "answers": {
+      "a": "Retorno sobre la Inversión",
+      "b": "Ratio de Operaciones Internas",
+      "c": "Registro de Objetos Inmuebles",
+      "d": "Resultado Ordinario de Intereses"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 19,
+    "quiz": 6,
+    "question": "¿Qué es una auditoría?",
+    "answers": {
+      "a": "Una reunión",
+      "b": "Examen de la contabilidad para verificar que refleja la imagen fiel de la empresa",
+      "c": "Un tipo de impuesto",
+      "d": "Escribir facturas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "quiz": 6,
+    "question": "¿Qué es el interés?",
+    "answers": {
+      "a": "Lo que te gusta",
+      "b": "Coste de utilizar el dinero ajeno o rendimiento de prestar dinero",
+      "c": "El precio del producto",
+      "d": "Una comisión fija"
+    },
+    "correct": "b"
+  }
+
+,
+  {
+    "id": 1,
+    "quiz": 7,
+    "question": "¿Qué es un Plan de Empresa?",
+    "answers": {
+      "a": "Un folleto publicitario",
+      "b": "Documento que describe un proyecto empresarial y analiza su viabilidad técnica, económica y financiera",
+      "c": "El contrato de los socios",
+      "d": "Una hoja de Excel con gastos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 7,
+    "question": "¿Para qué sirve el Plan de Empresa?",
+    "answers": {
+      "a": "Para decorar la oficina",
+      "b": "Para planificar, evaluar la viabilidad y buscar financiación",
+      "c": "Para cumplir la ley obligatoriamente",
+      "d": "Solo para las grandes empresas"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 3,
+    "quiz": 7,
+    "question": "¿Cuál es el primer paso en un Plan de Empresa?",
+    "answers": {
+      "a": "Comprar los muebles",
+      "b": "Definir la idea de negocio y el equipo promotor",
+      "c": "Pedir un préstamo",
+      "d": "Contratar al primer empleado"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 7,
+    "question": "¿Qué incluye el plan de marketing?",
+    "answers": {
+      "a": "Solo el precio",
+      "b": "Análisis del mercado, competencia y las 4 Ps",
+      "c": "La lista de proveedores",
+      "d": "El sueldo de los vendedores"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "quiz": 7,
+    "question": "¿Qué es el plan de operaciones?",
+    "answers": {
+      "a": "El calendario de vacaciones",
+      "b": "Descripción de los procesos de producción o prestación del servicio",
+      "c": "La cuenta de resultados",
+      "d": "El plan de riesgos laborales"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 6,
+    "quiz": 7,
+    "question": "¿Qué analiza el plan financiero?",
+    "answers": {
+      "a": "Los nombres de los empleados",
+      "b": "La viabilidad económica (inversiones, financiación, previsiones de resultados)",
+      "c": "El logotipo",
+      "d": "La ubicación del local"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 7,
+    "question": "¿Qué es el resumen ejecutivo?",
+    "answers": {
+      "a": "La lista de directivos",
+      "b": "Breve síntesis con los puntos clave del proyecto al inicio del documento",
+      "c": "Un manual de uso",
+      "d": "La última página del plan"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 8,
+    "quiz": 7,
+    "question": "¿Qué es un análisis de mercado?",
+    "answers": {
+      "a": "Ir a comprar al súper",
+      "b": "Estudio de la oferta, la demanda, los precios y la competencia",
+      "c": "Hacer publicidad",
+      "d": "Limpiar el local"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "quiz": 7,
+    "question": "¿Qué es la viabilidad técnica?",
+    "answers": {
+      "a": "Si el proyecto da dinero",
+      "b": "Si es posible fabricar el producto o prestar el servicio con los recursos disponibles",
+      "c": "Si la web funciona bien",
+      "d": "Si el jefe sabe informática"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "quiz": 7,
+    "question": "¿Qué es la viabilidad económica?",
+    "answers": {
+      "a": "Si hay ordenadores suficientes",
+      "b": "Si el proyecto es capaz de generar beneficios",
+      "c": "Si los socios son simpáticos",
+      "d": "Si el local es bonito"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "quiz": 7,
+    "question": "¿Qué es la viabilidad financiera?",
+    "answers": {
+      "a": "Si el producto gusta",
+      "b": "Si se dispone de fondos suficientes para afrontar los pagos",
+      "c": "Si hay competencia",
+      "d": "Si las leyes permiten el negocio"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 12,
+    "quiz": 7,
+    "question": "¿Qué es una estrategia corporativa?",
+    "answers": {
+      "a": "Lo que hace un departamento",
+      "b": "Decisiones que afectan a toda la empresa a largo plazo",
+      "c": "Bajar los precios mañana",
+      "d": "Cambiar el uniforme"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 7,
+    "question": "¿Qué es la estrategia de diferenciación?",
+    "answers": {
+      "a": "Ser igual a todos",
+      "b": "Ofrecer algo único por lo que el cliente esté dispuesto a pagar más",
+      "c": "Ser el más barato",
+      "d": "Vender en muchos sitios"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 14,
+    "quiz": 7,
+    "question": "¿Qué es la estrategia de liderazgo en costes?",
+    "answers": {
+      "a": "Ser el más caro",
+      "b": "Tener los costes más bajos del sector para ofrecer mejores precios",
+      "c": "Pagar poco a los empleados",
+      "d": "No tener oficina"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 15,
+    "quiz": 7,
+    "question": "¿Qué es el plan de recursos humanos?",
+    "answers": {
+      "a": "La lista de la compra",
+      "b": "Definición de puestos, perfiles, salarios y política de personal",
+      "c": "Hacer una fiesta",
+      "d": "Contratar a familiares"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 7,
+    "question": "¿Qué es la ubicación estratégica?",
+    "answers": {
+      "a": "Donde el alquiler sea más barato",
+      "b": "Elegir el lugar óptimo según clientes, costes y logística",
+      "c": "Cerca de la casa del dueño",
+      "d": "En el centro siempre"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 17,
+    "quiz": 7,
+    "question": "¿Qué es el marco legal?",
+    "answers": {
+      "a": "Un cuadro con las leyes",
+      "b": "Conjunto de normas y trámites que debe cumplir la empresa",
+      "c": "La policía",
+      "d": "El contrato de alquiler"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 18,
+    "quiz": 7,
+    "question": "¿Qué es un Business Model?",
+    "answers": {
+      "a": "Un modelo de pasarela",
+      "b": "La forma en que la empresa crea, entrega y captura valor",
+      "c": "El plan financiero",
+      "d": "Un tipo de sociedad"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 19,
+    "quiz": 7,
+    "question": "¿Qué es el prototipado?",
+    "answers": {
+      "a": "Vender el producto final",
+      "b": "Crear una versión mínima y rápida de la idea para probarla",
+      "c": "Hacer muchas fotos",
+      "d": "Diseñar el logo"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "quiz": 7,
+    "question": "¿Qué es el escalado de un negocio?",
+    "answers": {
+      "a": "Subir montañas",
+      "b": "Capacidad de crecer significativamente los ingresos con un incremento mínimo de costes",
+      "c": "Cerrar sucursales",
+      "d": "Bajar el sueldo a todos"
+    },
+    "correct": "b"
+  }
+
+,
+
+  {
+    "id": 1,
+    "quiz": 8,
+    "question": "¿Qué es un autónomo o empresario individual?",
+    "answers": {
+      "a": "Una sociedad de 10 personas",
+      "b": "Persona física que realiza una actividad económica de forma habitual, personal y directa",
+      "c": "Un empleado de una multinacional",
+      "d": "Una ONG"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 8,
+    "question": "¿Cuál es la principal desventaja del autónomo?",
+    "answers": {
+      "a": "Paga pocos impuestos",
+      "b": "Responsabilidad ilimitada (responde con sus bienes presentes y futuros)",
+      "c": "Tiene que tener socios",
+      "d": "No puede contratar a nadie"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 3,
+    "quiz": 8,
+    "question": "¿Qué es una Sociedad Limitada (S.L.)?",
+    "answers": {
+      "a": "Una empresa que no puede vender mucho",
+      "b": "Sociedad mercantil donde el capital está dividido en participaciones y la responsabilidad es limitada",
+      "c": "Un grupo de amigos sin papeles",
+      "d": "Una empresa pública"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 8,
+    "question": "¿Cuál es el capital mínimo para una S.L. en España (norma general)?",
+    "answers": {
+      "a": "60.000€",
+      "b": "3.000€ (aunque actualmente puede ser 1€ con condiciones)",
+      "c": "10.000€",
+      "d": "No hay mínimo"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 5,
+    "quiz": 8,
+    "question": "¿Qué es una Sociedad Anónima (S.A.)?",
+    "answers": {
+      "a": "Una empresa sin nombre",
+      "b": "Sociedad mercantil donde el capital está dividido en acciones y pensado para grandes inversiones",
+      "c": "Una cooperativa",
+      "d": "Un autónomo con nombre artístico"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 6,
+    "quiz": 8,
+    "question": "¿Cuál es el capital mínimo para una S.A.?",
+    "answers": {
+      "a": "3.000€",
+      "b": "60.000€",
+      "c": "120.000€",
+      "d": "30.000€"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 8,
+    "question": "¿Qué es una Cooperativa?",
+    "answers": {
+      "a": "Una empresa que busca el máximo beneficio para un solo dueño",
+      "b": "Asociación de personas que se unen para satisfacer sus necesidades económicas y sociales con gestión democrática",
+      "c": "Un banco",
+      "d": "Una tienda de barrio"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 8,
+    "quiz": 8,
+    "question": "¿Qué es la responsabilidad limitada?",
+    "answers": {
+      "a": "Que el dueño no manda",
+      "b": "Que en caso de deudas, solo se responde con el capital aportado a la sociedad",
+      "c": "Que no se pueden tener deudas",
+      "d": "Que los empleados no son responsables"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 9,
+    "quiz": 8,
+    "question": "¿Qué es el CIF/NIF?",
+    "answers": {
+      "a": "Un código de barras",
+      "b": "Código de identificación fiscal de la empresa",
+      "c": "El número de empleados",
+      "d": "La dirección web"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 10,
+    "quiz": 8,
+    "question": "¿Dónde se inscriben obligatoriamente las sociedades mercantiles?",
+    "answers": {
+      "a": "En el Ayuntamiento",
+      "b": "En el Registro Mercantil",
+      "c": "En el Registro de la Propiedad",
+      "d": "En el periódico local"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "quiz": 8,
+    "question": "¿Qué son los estatutos de una sociedad?",
+    "answers": {
+      "a": "Las leyes del país",
+      "b": "Normas internas que rigen el funcionamiento de la sociedad",
+      "c": "El contrato de alquiler",
+      "d": "La lista de precios"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 12,
+    "quiz": 8,
+    "question": "¿Qué es la escritura pública?",
+    "answers": {
+      "a": "Escribir en la calle",
+      "b": "Documento redactado por un notario que da fe de la constitución de la sociedad",
+      "c": "Un anuncio en la prensa",
+      "d": "El plan de empresa"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 8,
+    "question": "¿Qué es el IAE?",
+    "answers": {
+      "a": "Impuesto sobre Actividades Económicas",
+      "b": "Interés Anual Especial",
+      "c": "Impuesto de Autónomos Españoles",
+      "d": "Ingreso de Activos Externos"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 14,
+    "quiz": 8,
+    "question": "¿Qué es el IRPF?",
+    "answers": {
+      "a": "Impuesto sobre la Renta de las Personas Físicas",
+      "b": "Impuesto de Sociedades",
+      "c": "Iva Real Para Facturas",
+      "d": "Interés Real por Financiación"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 15,
+    "quiz": 8,
+    "question": "¿Qué es una Sociedad Civil?",
+    "answers": {
+      "a": "Una empresa de militares",
+      "b": "Contrato por el que dos o más personas ponen en común dinero, bienes o industria para repartir ganancias",
+      "c": "Una ONG",
+      "d": "Un partido político"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 8,
+    "question": "¿Qué es una Comunidad de Bienes?",
+    "answers": {
+      "a": "Un grupo de vecinos",
+      "b": "Cuando la propiedad de una cosa o derecho pertenece proindiviso a varias personas para una actividad",
+      "c": "Una S.L.",
+      "d": "Una herencia"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 17,
+    "quiz": 8,
+    "question": "¿Qué es el capital social?",
+    "answers": {
+      "a": "El dinero para fiestas",
+      "b": "Valor de los bienes y dinero aportados por los socios a la sociedad",
+      "c": "Las subvenciones",
+      "d": "El beneficio del año"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 18,
+    "quiz": 8,
+    "question": "¿Qué es el domicilio social?",
+    "answers": {
+      "a": "Donde vive el jefe",
+      "b": "Lugar donde radica la gestión y dirección de la empresa",
+      "c": "El club social de la ciudad",
+      "d": "La web"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 19,
+    "quiz": 8,
+    "question": "¿Qué es el objeto social?",
+    "answers": {
+      "a": "Un regalo para los socios",
+      "b": "La actividad o actividades a las que se va a dedicar la empresa",
+      "c": "El fin de la pobreza",
+      "d": "Vender productos baratos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 20,
+    "quiz": 8,
+    "question": "¿Qué es la reserva legal?",
+    "answers": {
+      "a": "Un parque natural",
+      "b": "Parte del beneficio que la ley obliga a guardar para reforzar el patrimonio de la sociedad",
+      "c": "Tener abogados en plantilla",
+      "d": "Dinero negro"
+    },
+    "correct": "b"
+  }
+
+,
+  {
+    "id": 1,
+    "quiz": 9,
+    "question": "¿Qué es la certificación negativa de nombre?",
+    "answers": {
+      "a": "Un carnet de identidad",
+      "b": "Documento que acredita que el nombre elegido para la sociedad no está ya registrado por otra",
+      "c": "Un suspenso en un examen",
+      "d": "No tener nombre"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 2,
+    "quiz": 9,
+    "question": "¿Dónde se solicita la certificación negativa de nombre?",
+    "answers": {
+      "a": "En el Ayuntamiento",
+      "b": "En el Registro Mercantil Central",
+      "c": "En la Agencia Tributaria",
+      "d": "En Correos"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 3,
+    "quiz": 9,
+    "question": "¿Qué es el Documento Único Electrónico (DUE)?",
+    "answers": {
+      "a": "El DNI del dueño",
+      "b": "Documento que permite realizar múltiples trámites de constitución y puesta en marcha a la vez",
+      "c": "Una factura única",
+      "d": "Un contrato de trabajo"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 4,
+    "quiz": 9,
+    "question": "¿Qué documento se utiliza para el alta telemática de una empresa?",
+    "answers": {
+      "a": "Certificado digital",
+      "b": "Modelo 036",
+      "c": "Contrato de constitución",
+      "d": "Documento Único Electrónico (DUE)"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 5,
+    "quiz": 9,
+    "question": "¿Qué ventaja tiene crear una empresa online mediante CIRCE?",
+    "answers": {
+      "a": "Sustituye la firma del notario",
+      "b": "Elimina todas las obligaciones fiscales",
+      "c": "Permite evitar el registro mercantil",
+      "d": "Ahorra tiempo y simplifica los trámites administrativos"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 6,
+    "quiz": 9,
+    "question": "¿Qué impuesto se debe abonar al constituir una sociedad?",
+    "answers": {
+      "a": "IVA",
+      "b": "Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados",
+      "c": "Impuesto de Sociedades",
+      "d": "IRPF"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 7,
+    "quiz": 9,
+    "question": "¿Qué organismo concede la licencia de apertura de un local?",
+    "answers": {
+      "a": "Registro Mercantil",
+      "b": "Seguridad Social",
+      "c": "Agencia Tributaria",
+      "d": "Ayuntamiento correspondiente"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 8,
+    "quiz": 9,
+    "question": "¿Qué documento se obtiene al inscribir una sociedad en el Registro Mercantil?",
+    "answers": {
+      "a": "Escritura de constitución",
+      "b": "Contrato mercantil",
+      "c": "Plan financiero",
+      "d": "Informe económico"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 9,
+    "quiz": 9,
+    "question": "¿Qué es el certificado digital?",
+    "answers": {
+      "a": "Una herramienta que permite identificarse y firmar documentos electrónicamente",
+      "b": "Un permiso de Hacienda para exporter",
+      "c": "Una aplicación para emitir facturas",
+      "d": "Un documento de formación en informática"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 10,
+    "quiz": 9,
+    "question": "¿Qué documento es esencial para planificar la puesta en marcha de un negocio?",
+    "answers": {
+      "a": "Certificado de registro",
+      "b": "Plan de empresa",
+      "c": "Escritura notarial",
+      "d": "Contrato laboral"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 11,
+    "quiz": 9,
+    "question": "¿Qué institución registra oficialmente las sociedades mercantiles?",
+    "answers": {
+      "a": "Ayuntamiento",
+      "b": "Seguridad Social",
+      "c": "Agencia Tributaria",
+      "d": "Registro Mercantil"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 12,
+    "quiz": 9,
+    "question": "¿Qué es un PAE (Punto de Atención al Emprendedor)?",
+    "answers": {
+      "a": "Un programa de subvenciones",
+      "b": "Un servicio que ayuda a crear empresas y realizar trámites iniciales",
+      "c": "Un tipo de sociedad limitada",
+      "d": "Una empresa privada de asesoría"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 13,
+    "quiz": 9,
+    "question": "¿Qué debe hacer un emprendedor tras constituir su empresa?",
+    "answers": {
+      "a": "Evitar registrar su actividad",
+      "b": "Esperar la aprobación del ayuntamiento",
+      "c": "Cumplir con las obligaciones fiscales, laborales y de seguridad social",
+      "d": "Vender la empresa"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 14,
+    "quiz": 9,
+    "question": "¿Qué plataforma permite realizar trámites de forma online con la Administración?",
+    "answers": {
+      "a": "Portal del emprendedor",
+      "b": "LinkedIn",
+      "c": "Sede electrónica",
+      "d": "INE"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 15,
+    "quiz": 9,
+    "question": "¿Qué trámite es necesario para operar legalmente como autónomo?",
+    "answers": {
+      "a": "Registro de marca",
+      "b": "Alta en el RETA y en Hacienda",
+      "c": "Firmar un contrato mercantil",
+      "d": "Solicitar un préstamo"
+    },
+    "correct": "b"
+  },
+  {
+    "id": 16,
+    "quiz": 9,
+    "question": "¿Qué documento acredita la identidad de una empresa ante la Administración?",
+    "answers": {
+      "a": "Factura proforma",
+      "b": "Certificado de empadronamiento",
+      "c": "CIF o NIF empresarial",
+      "d": "Título de propiedad"
+    },
+    "correct": "c"
+  },
+  {
+    "id": 17,
+    "quiz": 9,
+    "question": "¿Qué es lo primero que debe hacer un emprendedor antes de iniciar su negocio?",
+    "answers": {
+      "a": "Buscar local sin analizar la viabilidad",
+      "b": "Registrar la marca sin Proyecto",
+      "c": "Contratar empleados",
+      "d": "Definir la idea y elaborar un plan de empresa"
+    },
+    "correct": "d"
+  },
+  {
+    "id": 18,
+    "quiz": 9,
+    "question": "¿En qué modelo se comunica el inicio de actividad a Hacienda?",
+    "answers": {
+      "a": "Modelo 036 o 037",
+      "b": "Modelo 100",
+      "c": "Modelo 111",
+      "d": "Modelo 303"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 19,
+    "quiz": 9,
+    "question": "¿Qué significa RETA?",
+    "answers": {
+      "a": "Régimen Especial de Trabajadores Autónomos",
+      "b": "Red Estatal de Trabajo Autónomo",
+      "c": "Régimen Empresarial de Trabajo y Actividad",
+      "d": "Registro Estatal de Trabajadores Asociados"
+    },
+    "correct": "a"
+  },
+  {
+    "id": 20,
+    "quiz": 9,
+    "question": "¿Qué licencia se necesita para abrir un local comercial?",
+    "answers": {
+      "a": "Licencia de circulación",
+      "b": "Licencia de apertura o de actividad",
+      "c": "Certificado de obras",
+      "d": "Permiso laboral"
+    },
+    "correct": "b"
+  }
+
+
+
+
+]
+
+
+
+
+
